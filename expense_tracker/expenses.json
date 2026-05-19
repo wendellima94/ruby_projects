@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Cafe da tarde",
+    "amount": 11.0,
+    "category": "Diario"
+  },
+  {
+    "title": "Almoco",
+    "amount": 30.0,
+    "category": "Diario"
+  },
+  {
+    "title": "Corte cabelo",
+    "amount": 50.0,
+    "category": "Semanal"
+  },
+  {
+    "title": "Gasolina",
+    "amount": 200.0,
+    "category": "Semanal"
+  }
+]
